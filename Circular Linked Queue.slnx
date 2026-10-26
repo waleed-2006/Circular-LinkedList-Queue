@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Circular Linked Queue/Circular Linked Queue.vcxproj" Id="b35bd860-19fb-4355-928e-3088c588cb7b" />
+</Solution>
